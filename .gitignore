@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+#
+# Output of the protoc code generator
+proto/service.pb.go
+proto/service.pb.gw.go
+
+# Intellij .idea directory
+.idea/
